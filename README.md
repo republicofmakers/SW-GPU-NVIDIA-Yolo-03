@@ -1,6 +1,6 @@
 # SW-GPU-NVIDIA-Yolo-03
 
-Here is yolo test test with Jetson Orin Nano. I used yolov8n witn imx219 camera.
+Here is yolo test with Jetson Orin Nano. I used yolov8n witn imx219 camera.
 
 ## 1. Connect Camera
 
